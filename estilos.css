@@ -3,7 +3,7 @@
 /*Todas las declaraciones de estilo se encuentran en el CSS, el HTML es para contenido únicamente*/
 
 /*Importar tipografía de google fonts vía @import (sin etiquetas <style>)*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap');
 /*Esto me permite utilizar la tipografía en todo el contenido de body. Como standard vamos a usar la 100*/
 
 /*Reseteo de márgenes de todos los elementos para todos los navegadores*/
